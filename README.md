@@ -5,6 +5,15 @@ It captures microphone audio from the user and converts speech into text in real
 
 ---
 
+## 🌐 Live Demo
+
+A live web version of this project is available here:  
+🔗 https://voice-to-text-app-nine.vercel.app/
+
+The desktop application is built using Tauri and can be run locally using `tauri dev`.
+
+---
+
 ## ✨ Features
 
 - 🎤 Microphone audio capture using the MediaRecorder API
